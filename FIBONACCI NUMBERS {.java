@@ -1,6 +1,3 @@
-public class Main {
-    
-}
 import java.math.BigInteger;
 
 public class Fibonacci {
